@@ -1,0 +1,7 @@
+obj/
+bin/
+umbraco
+wwwroot/media
+wwwroot/umbraco
+packages
+App_Data
